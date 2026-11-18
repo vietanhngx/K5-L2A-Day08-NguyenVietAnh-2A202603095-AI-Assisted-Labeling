@@ -1,0 +1,7 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,Nguyễn Việt Anh,Đã loại box trùng xe ba bánh; còn một box. Chưa ghi nhận lỗi xác định khác trong lượt kiểm.
+img_006.jpg,,khong,Nguyễn Việt Anh,Đã xem overlay; chưa ghi nhận lỗi xác định trong lượt kiểm.
+img_013.jpg,,khong,Nguyễn Việt Anh,Đã xem overlay; chưa ghi nhận lỗi xác định trong lượt kiểm.
+img_014.jpg,,khong,Nguyễn Việt Anh,Đã xem overlay; chưa ghi nhận lỗi xác định trong lượt kiểm.
+img_025.jpg,,khong,Nguyễn Việt Anh,"Xe #363 được xác định là xe đạp điện trong calibration; giữ bicycle và can_review=true theo CAL-04, không tính là lỗi sai lớp."
+img_033.jpg,,khong,Nguyễn Việt Anh,Đã xem overlay; chưa ghi nhận lỗi xác định trong lượt kiểm.
